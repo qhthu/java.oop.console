@@ -1,0 +1,4 @@
+1/Bang so 1/24000.0/Kim Dong/120
+2/Bang so 2/25000.0/Van hoa/150
+3/Bang so 3/30000.0/Kim Dong/200
+4/Bang so 4/32000.0/Hung An/100

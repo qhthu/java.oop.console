@@ -1,0 +1,4 @@
+1/Dia so 1/23000.0/Van hoa/200
+2/Dia so 2/33000.0/Kim dong/220
+3/Dia so 3/30000.0/Tororo/100
+4/Dia so 4/25000.0/Van hoa/200
